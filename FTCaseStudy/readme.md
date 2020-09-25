@@ -1,10 +1,7 @@
 # Opendoor
 ​
 ##  Overview and Origin:
-​
- ###  Opendoor
- 
-​
+
 ### When was the company incorporated? 
 
 Opendoor Labs Inc was  incorporated on 12/30/2013
