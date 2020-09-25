@@ -8,7 +8,7 @@ Opendoor Labs Inc was  incorporated on 12/30/2013
 
  ###  Who are the founders of the company?
  
-​Keith Rabois, Eric Wu, Ian Wong, Justin Ross
+​Keith Rabois, Eric Wu, Ian Wong, Justin Ross.
 Eric Wu is the Founder and CEO.
 
  ###  How did the idea for the company (or project) come about?
