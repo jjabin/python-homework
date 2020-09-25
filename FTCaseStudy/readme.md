@@ -31,7 +31,7 @@ simplicity and effectiveness in puchasing/closing process
 ​
  ###  What domain of the financial industry is the company in?
 ​Real estate
--iBuying
+*iBuying
 ###   What have been the major trends and innovations of this domain over the last 5-10 years?
 ​ iBuying has grown significantly over the past years with companies like zillow and redfin 
 
