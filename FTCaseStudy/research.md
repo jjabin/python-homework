@@ -4,3 +4,4 @@ https://www.opendoor.com/w/wp-content/uploads/2020/09/Opendoor-overview-investor
   https://www.opendoor.com/w/guides/how-does-opendoor-make-money
   https://www.mikedp.com/opendoor-ibuyer-business-model
 https://www.slideshare.net/MikeDelPrete/the-ibuyer-report-preview?ref=https://www.mikedp.com/ibuyer-report
+https://www.opendoor.com/w/guides/how-opendoor-calculates-the-value-of-your-home
