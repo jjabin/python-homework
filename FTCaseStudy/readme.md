@@ -57,4 +57,4 @@ simplicity and effectiveness in puchasing/closing process
 ​data mining and parsing to provide more accurate offer for customers.
 ​could lead to an estimate generator for houses with limited information similiar to zestimate 
  ### Why are these technologies appropriate for your solution?
- opendoor will be able to more effectively compete with Zillow and bring more of the real estate market online by working with local agencies. 
+ opendoor will be able to more effectively compete with Zillow and bring more of the real estate market online by working with local agencies.
