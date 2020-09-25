@@ -50,10 +50,11 @@ simplicity and effectiveness in puchasing/closing process
 ## Recommendations
 ​
  ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-​
+​provide and gather prices/additional information for homes that are not on the market to compete with Zillow and to work with local agents
  ### Why do you think that offering this product or service would benefit the company?
-​
+​offering this service woud allow it to compete with zillow while also gathering more information on price, demographics, and changes over time that it can utilize and sell.
  ### What technologies would this additional product or service utilize?
-​
+​data mining and parsing to provide more accurate offer for customers.
+​could lead to an estimate generator for houses with limited information similiar to zestimate 
  ### Why are these technologies appropriate for your solution?
-```
+ opendoor will be able to more effectively compete with Zillow and bring more of the real estate market online by working with local agencies. 
