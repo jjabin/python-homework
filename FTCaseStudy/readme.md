@@ -49,9 +49,9 @@ simplicity and effectiveness in puchasing/closing process
 ## Recommendations
 ​
  ### H3 If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-​
+​ offer a price on houses that are not on the market or for sale by them to compete with Zillow.
  ### H3 Why do you think that offering this product or service would benefit the company?
-​
+​Opendoor 
  ### H3 What technologies would this additional product or service utilize?
 ​
  ### H3 Why are these technologies appropriate for your solution?
