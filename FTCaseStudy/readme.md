@@ -4,7 +4,7 @@
 ​
  ###  Name of company
 ​opendoor
-* When was the company incorporated?
+* When was the company incorporated? 
 ​2014
  ###  Who are the founders of the company?
 ​Keith Rabois, Eric Wu, Ian Wong, Justin Ross
